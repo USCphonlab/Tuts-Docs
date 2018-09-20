@@ -10,3 +10,5 @@
 <a href="https://sgdanner.com/amp-2016-tutorial/">rtMRI Tutorial (using USC-TIMIT)</a>, by Samantha Gordon Danner
 
 <a href="https://www.cefala.org/FlowAnalyzer/">FlowAnalyzer Tutorial</a>, by Adriano Vilela Barbosa
+
+< href="http://fu.ff.cuni.cz/praat/">Tools rPraat & mPraat, by Tomáš Boril and Radek Skarnitzl</a>
