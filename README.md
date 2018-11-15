@@ -14,3 +14,5 @@
 <a href="http://fu.ff.cuni.cz/praat/">Tools rPraat & mPraat</a>, by Tomáš Boril and Radek Skarnitzl
 
 <a href="https://github.com/avspeech/cma-matlab">Correlation Map Analysis for Matlab</a>, by Adriano Vilela Barbosa
+
+<a href="https://sgfin.github.io/learning-resources/">Directory of Machine Learning Resources</a>, by Sam Finlayson
