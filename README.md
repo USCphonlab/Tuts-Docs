@@ -16,3 +16,5 @@
 <a href="https://github.com/avspeech/cma-matlab">Correlation Map Analysis for Matlab</a>, by Adriano Vilela Barbosa
 
 <a href="https://sgfin.github.io/learning-resources/">Directory of Machine Learning Resources</a>, by Sam Finlayson
+
+<a href="https://aws.amazon.com/training/learning-paths/machine-learning/">Free machine learning classes from Amazon Web Services</a>, by Amazon
